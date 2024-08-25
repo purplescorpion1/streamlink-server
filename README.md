@@ -70,4 +70,5 @@ In a terminal/cmd window run
 ```
 python stream_link_server.py
 ```
-Open output_encoded.m3u with your chosen player and it will stream the urls through streamlink to your player
+Open output_encoded.m3u with your chosen player and it will stream the urls through streamlink to your player <br>
+You can rename output_encoded.m3u to any name you wish
