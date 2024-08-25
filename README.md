@@ -51,7 +51,11 @@ Change
 input_file = 'input.m3u'
 ```
 to the name of your m3u file <br>
-<br>
+eg
+```
+input_file = 'mym3ufile.m3u'
+```
+
 In a terminal/cmd window run <br>
 ```
 python encodeurls.py
