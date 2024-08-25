@@ -34,7 +34,7 @@ eg it will look like <br>
 http://192.168.1.123:6090/stream?url=http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=4c9b8520-6224-11ef-9154-83018d21c856&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16d72f2e-ab58-4ea1-9554-e127c7674652&userId=&serverSideAds=true
 ```
 
-You can use notepad++ to automatically add it in, using find and replace, to save you manually adding it all <br>
+You can use notepad++ to automatically add it in, using find and replace, to save you manually adding it all to every stream url in your m3u <br>
 eg in the example above you would say <br>
 Find http://cfd and replace with http://192.168.1.123:6090/stream?url=http://cfd <br>
 <br>
