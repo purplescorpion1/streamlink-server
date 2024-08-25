@@ -25,7 +25,7 @@ Open stream_link_server.py <br>
 Change the port number at the bottom to the port you want the script to run <br>
 <br>
 Open your m3u file in notepad++ <br>
-Before all the stream links add
+Before all the stream links add (changing ip and port to your actual ip and port values)
 ```
 http://ip:port/stream?url=
 ```
